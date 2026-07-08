@@ -4,7 +4,7 @@ title: "People"
 
 ## Principal Investigator
 
-**Carla Vizcarra** — Assistant Professor, Department of Biological Sciences, Barnard College
+**Christina Vizcarra** — Associate Professor, Department of Chemistry, Barnard College
 
 <!-- Add lab members below: postdocs, graduate students, undergraduate researchers, alumni. -->
 
