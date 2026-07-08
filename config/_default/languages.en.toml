@@ -1,0 +1,21 @@
+locale = "en"
+label = "English"
+weight = 1
+title = "Vizcarra Lab"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/vizcarra-logo.png"
+  description = "The Vizcarra Lab studies proteins that build the eukaryotic cytoskeleton."
+
+[params.author]
+  name = "Vizcarra Lab"
+  email = "cvizcarr@barnard.edu"
+  headline = "The Vizcarra Lab studies proteins that build the eukaryotic cytoskeleton."
+  bio = "Department of Biological Sciences, Barnard College"
+  links = [
+    { email = "mailto:cvizcarr@barnard.edu" },
+  ]
