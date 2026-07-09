@@ -2,11 +2,14 @@
 title: "People"
 ---
 
-<div style="display: flex; gap: 8px; margin-bottom: 32px;">
-  <img src="/img/people/banner/banner-1.jpg" alt="Lab group photo" style="flex: 1 1 0%; min-width: 0; aspect-ratio: 1 / 1; width: 100%; object-fit: cover; border-radius: 8px;">
-  <img src="/img/people/banner/banner-2.jpg" alt="Lab group photo" style="flex: 1 1 0%; min-width: 0; aspect-ratio: 1 / 1; width: 100%; object-fit: cover; border-radius: 8px;">
-  <img src="/img/people/banner/banner-3.jpg" alt="Lab group photo" style="flex: 1 1 0%; min-width: 0; aspect-ratio: 1 / 1; width: 100%; object-fit: cover; border-radius: 8px;">
-  <img src="/img/people/banner/banner-4.jpg" alt="Lab group photo" style="flex: 1 1 0%; min-width: 0; aspect-ratio: 1 / 1; width: 100%; object-fit: cover; border-radius: 8px;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 32px;">
+  <img src="/img/people/banner/banner-1.jpg" alt="Lab group photo" style="flex: 1 1 150px; min-width: 0; aspect-ratio: 1 / 1; width: 100%; object-fit: cover; border-radius: 8px;">
+  <img src="/img/people/banner/banner-2.jpg" alt="Lab group photo" style="flex: 1 1 150px; min-width: 0; aspect-ratio: 1 / 1; width: 100%; object-fit: cover; border-radius: 8px;">
+  <img src="/img/people/banner/banner-3.jpg" alt="Lab group photo" style="flex: 1 1 150px; min-width: 0; aspect-ratio: 1 / 1; width: 100%; object-fit: cover; border-radius: 8px;">
+  <img src="/img/people/banner/banner-4.jpg" alt="Lab group photo" style="flex: 1 1 150px; min-width: 0; aspect-ratio: 1 / 1; width: 100%; object-fit: cover; border-radius: 8px;">
+  <img src="/img/people/banner/banner-5.jpg" alt="Lab group photo" style="flex: 1 1 150px; min-width: 0; aspect-ratio: 1 / 1; width: 100%; object-fit: cover; border-radius: 8px;">
+  <img src="/img/people/banner/banner-6.jpg" alt="Lab group photo" style="flex: 1 1 150px; min-width: 0; aspect-ratio: 1 / 1; width: 100%; object-fit: cover; border-radius: 8px;">
+  <img src="/img/people/banner/banner-7.jpg" alt="Lab group photo" style="flex: 1 1 150px; min-width: 0; aspect-ratio: 1 / 1; width: 100%; object-fit: cover; border-radius: 8px;">
 </div>
 
 ## Principal Investigator
