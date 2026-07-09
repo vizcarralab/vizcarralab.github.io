@@ -8,7 +8,8 @@ title: "People"
   <img src="/img/people/christina-vizcarra.jpg" alt="Christina Vizcarra" style="width: 160px; height: 160px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
   <div style="flex: 1 1 0%; min-width: 0;">
     <strong>Christina Vizcarra</strong><br>
-    Associate Professor, Department of Chemistry, Barnard College<br>
+    Associate Professor<br> 
+    Department of Chemistry, Barnard College<br>
     <a href="/cv/vizcarra-cv.pdf">Download CV (PDF)</a>
   </div>
 </div>
