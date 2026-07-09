@@ -12,7 +12,7 @@ showTableOfContents: false
 </div>
 
 <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 24px;">
-  <img src="/img/research/formins-small-molecules.svg" alt="Formins & Small Molecules" style="width: 180px; height: 180px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
+  <img src="/img/research/fh2-smifh2.svg" alt="Formins & Small Molecules" style="width: 180px; height: 180px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">
   <div style="flex: 1 1 0%; min-width: 0;">
     <strong>Formins & Small Molecules</strong><br>
     We study the mechanistic basis for formin inhibition by small molecules.
