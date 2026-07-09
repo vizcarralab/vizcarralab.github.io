@@ -22,31 +22,41 @@ title: "People"
 
 ## Alumni
 
-**Tayyaba Jabeen** — Biochemistry, '16
+**Sofia Lebron** — Biochemistry, '26
 
-**Archana Nagarajan** — Biochemistry, '17
+**Anna Pepper** — Biochemistry, '26
 
-**Neda Kashani** — Biochemistry, '17
+**Deanna Wood** — Biochemistry, '26
 
-**Aisha Hasan** — Chemistry, '18
+**Charlotte Ries** — Biochemistry, '26
 
-**Christina Costeas** — Biochemistry, '18
+**Alanna Xue** — Biochemistry, '26
 
-**Lisette Garcia** — Biochemistry, '18
+**Inanna Doytch** — Biochemistry, '25
 
-**Lisa Minkoff** — Biochemistry, '18
+**Vanessa Yang** — Biochemistry, '25
 
-**Grace Nickel** — Biochemistry, '19
+**Sarah Jeanty** — Biochemistry, '25
 
-**Carla Hachicho** — Biochemistry, '19
+**Sheikh Jobayar** — Biochemistry, '24
 
-**Angela Montero** — Biochemistry, '20
+**Natasha Sharma** — Biochemistry, '24
 
-**Alison Milano** — Biochemistry, '20
+**Ningxin Luo** — Biochemistry, '24
 
-**Veronica Zelles** — Biochemistry, '20
+**Karen Jang** — Biochemistry, '23
 
-**Shoshana Williams** — Chemistry, '20
+**Hana Illikkal** — Biochemistry, '23
+
+**Hannah Christianson** — Chemistry, '22
+
+**Joana Gjeci** — Biochemistry, '22
+
+**Aliza Makovsky** — Neuroscience & Behavior, '22
+
+**Julia Van Riel** — Biochemistry, '22
+
+**Sophie Baum** — Chemistry, '22
 
 **Rahma Elsiesy** — Biochemistry, '21
 
@@ -60,38 +70,28 @@ title: "People"
 
 **Yeliz Sezgin** — Biochemistry, '21
 
-**Hannah Christianson** — Chemistry, '22
+**Angela Montero** — Biochemistry, '20
 
-**Joana Gjeci** — Biochemistry, '22
+**Alison Milano** — Biochemistry, '20
 
-**Aliza Makovsky** — Neuroscience & Behavior, '22
+**Veronica Zelles** — Biochemistry, '20
 
-**Julia Van Riel** — Biochemistry, '22
+**Shoshana Williams** — Chemistry, '20
 
-**Sophie Baum** — Chemistry, '22
+**Grace Nickel** — Biochemistry, '19
 
-**Karen Jang** — Biochemistry, '23
+**Carla Hachicho** — Biochemistry, '19
 
-**Hana Illikkal** — Biochemistry, '23
+**Aisha Hasan** — Chemistry, '18
 
-**Sheikh Jobayar** — Biochemistry, '24
+**Christina Costeas** — Biochemistry, '18
 
-**Natasha Sharma** — Biochemistry, '24
+**Lisette Garcia** — Biochemistry, '18
 
-**Ningxin Luo** — Biochemistry, '24
+**Lisa Minkoff** — Biochemistry, '18
 
-**Inanna Doytch** — Biochemistry, '25
+**Archana Nagarajan** — Biochemistry, '17
 
-**Vanessa Yang** — Biochemistry, '25
+**Neda Kashani** — Biochemistry, '17
 
-**Sarah Jeanty** — Biochemistry, '25
-
-**Sofia Lebron** — Biochemistry, '26
-
-**Anna Pepper** — Biochemistry, '26
-
-**Deanna Wood** — Biochemistry, '26
-
-**Charlotte Ries** — Biochemistry, '26
-
-**Alanna Xue** — Biochemistry, '26
+**Tayyaba Jabeen** — Biochemistry, '16
